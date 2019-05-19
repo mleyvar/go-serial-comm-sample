@@ -1,7 +1,7 @@
 # go-serial-comm-sample
 Example of implementation of a program for reading and writing data for serial port
 
-Thios sample use go.bug.st/serial.v1   library.
+This sample use go.bug.st/serial.v1   library.
 
 Configuration:
 
